@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/materialize"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Materialize"
+	}
+}

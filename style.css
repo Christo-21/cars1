@@ -1,0 +1,34 @@
+.nav{
+    height: 50px;
+    background-color: black;
+    
+}
+.new{
+    color: white;
+    
+}
+.des{
+    font: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.rolls{
+    font: 1000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.sign{
+    font: 1000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: orangered;
+}
+
+.div2{
+    background-color: black;
+    
+}
+.lo{
+    font-size: 15px;
+    text-align: left;
+        
+}
